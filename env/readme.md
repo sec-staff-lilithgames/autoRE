@@ -1,0 +1,1 @@
+这个模块设计为各种大的环境设置，类似于AndroidSDK或者python环境
